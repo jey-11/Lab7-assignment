@@ -29,6 +29,8 @@ i (go into insert mode) <br>
 **Step 9:** commit and push to git hub account <br>
 git add ListExamples.java \<enter> <br>
 this moves the file to the staging area<br>
+![Image](Lab7_S9_P1.png) <br>
+
 git commit \<enter> <br>
 this moves commits the file into the github rerposity <br>
 
