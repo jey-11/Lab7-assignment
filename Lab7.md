@@ -28,6 +28,8 @@ i (go into insert mode) <br>
 
 **Step 9:** commit and push to git hub account <br>
 git add ListExamples.java <br>
+this moves the file to the staging area<br>
 git commit <br>
+this moves commits the file into the github rerposity <br>
 
 
