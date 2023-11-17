@@ -32,7 +32,7 @@ this moves the file to the staging area<br>
 ![Image](Lab7_S9_P1.png) <br>
 
 git commit \<enter> <br>
-this moves commits the file into the github rerposity <br>
+this moves/commits the file into the github repository <br>
 ![Image](Lab7_S9_P4.png) <br>
 this prompts for a commit message where I included changed index1 to index2 
 ![Image](Lab7_S9_P2.png) <br>
