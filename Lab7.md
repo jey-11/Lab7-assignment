@@ -7,23 +7,23 @@ I just typed out the command to git clone the forked respository onto my account
 ![Image](Lab7_S5.png)<br>
 
 **Step 6:** running the tests<br>
-cd lab7<enter> <br>
+cd lab7\<enter> <br>
 I changed my directory so I would be in the lab7 folder. Enter caused the command to run. <br>
-bash test.sh<enter> <br>
+bash test.sh\<enter> <br>
 I ran the shell script that is used to test the ListExamples.java file <br>
 ![Image](Lab7_S6.png)<br>
 
 **Step 7** edit the ListExamples.java file 
 vim ListExamples.java<enter> <br>
 i (go into insert mode) <br>
-<down> x37 <right> x12 <backspace> 2 (editing the file)<br>
-<esc> (get out of insert mode)<br>
+\<down> x37 \<right> x12 <backspace> 2 (editing the file)<br>
+\<esc> (get out of insert mode)<br>
 :wq (saves and exits from vim) <br>
 ![Image](Lab7_S7_P1.png)
 ![Image](Lab7_S7_P2.png)
 
 **Step 8** re run the tests <br>
-<up> x2 (this went up my command history to get to the bash test.sh command) <br>
+\<up> x2 (this went up my command history to get to the bash test.sh command) <br>
 ![Image](Lab7_S8.png)
 
 **Step 9:** commit and push to git hub account <br>
